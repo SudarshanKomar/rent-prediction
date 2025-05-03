@@ -69,7 +69,7 @@ Start the development server:
 
 ### 🔍 Search Page
 
-![Search Page](assets/search.png)
+![Search Page](assets/prediction.png)
 ## Web Scraping (For Educational Purposes)
 
 You can use web scraping to collect rental data for educational purposes. Ensure to follow ethical guidelines and the website's terms of service.
